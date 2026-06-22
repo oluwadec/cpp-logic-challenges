@@ -5,7 +5,7 @@ int main() {
 int age;
 cout << "Enter your age : ";
 cin >> age;
-if (age >= 18);
+if (age >= 18)
 {
 	cout << " Access Granted. Welcome inside! " << endl;
 }
