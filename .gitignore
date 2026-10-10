@@ -1,1 +1,22 @@
-﻿.vs/
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+
+# Build output
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.recipe
+
+# Editor / temp files
+*~
+*.TMP
